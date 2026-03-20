@@ -8,5 +8,3 @@ Modifications made in this distribution:
 - Added CMake build support in the root directory
 
 No changes have been made to the core source code of the library.
-
-This redistribution is maintained by HaiZao001(haichao.zhang@bambulab.com)/BambuStudio, 2026/3/19.
